@@ -36,7 +36,7 @@ Tags e Termos usados no HTML
 
 ### Exemplo de estruturação com tags semânticas:
 <p align="center">
-  <img src="https://www.alura.com.br/artigos/assets/o-que-e-html-suas-tags-parte-1-estrutura-basica/imagem2.jpg" height="600"/>
+  <img src="https://raw.githubusercontent.com/selenitye/dicionario-html/main/estrutura-html.jpeg" height="800"/>
 </p>
   
 ## Tags sem semântica
